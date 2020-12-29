@@ -1,1 +1,2 @@
-# collision-algo-m-
+# collisionAlgorithm
+Algorithm to detect collision between two objects
